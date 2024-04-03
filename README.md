@@ -1,6 +1,6 @@
-# Machine Learning Algorithms Created on Python
+# Machine Learning Algorithms Created using Python
 
-1. **Amazon Recommendation Model**: Utilized a sub-dataset from Amazon Reviews on musical instruments. I built a recommendation algorithm that predicts rating a new user would give to a musical instrument as well as recommends products to a new user with no purchasing history using K-nearest neighbours (KNN).
+1. **Amazon Recommendation Model**: Utilized a sub-dataset from Amazon Reviews on musical instruments. I built a recommendation algorithm that predicts rating a new user would give to a musical instrument as well as recommends products to a new user with no purchasing history using  scikit-learn library - K-nearest neighbours (KNN).
 2. **House Pricing**: I created 2 different models using KNN and Decision Tree Classifier to predict the town of a person's house be based on the sale price, sale date, number of bedrooms & bath, sq ft of house and lot, type of house, and year it was built
 3. **K-means Clustering and Normalizing**: Created K-means clustering model and tested different number of clusters and chose the best model based on the silhouette score, which measures the similarity of data points within a cluster compared to other clusters.
 4. **YVR Taxi Prediction Algorithm**: I cleaned and analyzed YVR (Vancouver airport's) data including daily temperature data, rideshare services (Uber and Lyft) data, number of passengers arriving at the airport by airline at a specified hour. Then, used Regression, Decision Trees and Grid Search with Cross Validation to predict the taxi demand at the airport at a specific time period during the day.
