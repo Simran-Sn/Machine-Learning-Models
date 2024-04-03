@@ -1,4 +1,5 @@
 # Machine Learning Algorithms Created using Python
+![image](https://github.com/Simran-Sn/Machine-Learning-Models/assets/164589061/80ce1976-530c-4606-a3e0-3796fe406647)
 
 1. **Amazon Recommendation Model**: Utilized a sub-dataset from Amazon Reviews on musical instruments. I built a recommendation algorithm that predicts rating a new user would give to a musical instrument as well as recommends products to a new user with no purchasing history using  scikit-learn library - K-nearest neighbours (KNN).
 2. **House Pricing**: I created 2 different models using KNN and Decision Tree Classifier to predict the town of a person's house be based on the sale price, sale date, number of bedrooms & bath, sq ft of house and lot, type of house, and year it was built
